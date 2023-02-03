@@ -45,7 +45,7 @@
 <br/>
 <h2 align="center">📊 Leetcode Stats</h2>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Sagar1079?theme=nord"/>
+  <a href="https://www.leetcode.com/Sagar1079" target="blank"><img align="center" src="https://leetcard.jacoblin.cool/Sagar1079?theme=nord"/></a>
 </p>
 <br/>
 
