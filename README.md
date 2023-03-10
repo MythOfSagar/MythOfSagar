@@ -92,18 +92,18 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
 <p align="center">
    <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar1079&theme=solarized_dark">
-
+</p>
+<br />
+<p align="center">
    <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar1079&theme=solarized_dark">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar1079&theme=solarized_dark">
 
-
 </p>
+<br />
 <p align="center" style="margin-right:0px;padding-right:0px">
    <img height="220" src="https://github-readme-stats.vercel.app/api?username=sagar1079&theme=material-palenight"
       width="400">
    <img height="220" alt="streak stats"
       src="https://github-readme-streak-stats.herokuapp.com/?user=sagar1079&theme=material-palenight" width="400">
 </p>
-
-<br />
