@@ -59,7 +59,6 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
       alt="html5" width="40" height="40" /><img
       src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"
       alt="css3" width="40" height="40" />
-
    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
       alt="javascript" width="40" height="40" />
    <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40"
@@ -70,7 +69,6 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
       width="40" height="40" />
    <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"
       alt="redux" width="40" height="40" />
-
    <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"
       alt="chakra" width="40" height="40" />
    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40"
