@@ -80,11 +80,6 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
       alt="npm" width="40" height="40" />
 
    <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40" />
-</p><br />
-<h2 align="center">📊 LeetCode Stats</h2>
-<p align="center">
-   <a href="https://www.leetcode.com/Sagar1079" target="_blank"><img title="Click to view LeetCode Profile"
-         align="center" src="https://leetcard.jacoblin.cool/Sagar1079?theme=nord" /></a>
 </p>
 <br />
 
@@ -106,4 +101,10 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
       width="400">
    <img height="220" alt="streak stats"
       src="https://github-readme-streak-stats.herokuapp.com/?user=sagar1079&theme=material-palenight" width="400">
+</p>
+<br />
+<h2 align="center">📊 LeetCode Stats</h2>
+<p align="center">
+   <a href="https://www.leetcode.com/Sagar1079" target="_blank"><img title="Click to view LeetCode Profile"
+         align="center" src="https://leetcard.jacoblin.cool/Sagar1079?theme=nord" /></a>
 </p>
