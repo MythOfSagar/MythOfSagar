@@ -96,10 +96,8 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
 
 </p>
 <br />
-<p align="center" style="margin-right:0px;padding-right:0px">
-   <img height="220" src="https://github-readme-stats.vercel.app/api?username=sagar1079&theme=material-palenight"
-      width="400">
-   <img height="220" alt="streak stats"
+<p align="center">
+   <img alt="streak stats"
       src="https://github-readme-streak-stats.herokuapp.com/?user=sagar1079&theme=material-palenight" width="400">
 </p>
 <br />
