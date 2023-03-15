@@ -98,7 +98,7 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
 <br />
 <p align="center">
    <img alt="streak stats"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sagar1079&theme=material-palenight" width="400">
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sagar1079&theme=nord">
 </p>
 <br />
 <h2 align="center">📊 LeetCode Stats</h2>
