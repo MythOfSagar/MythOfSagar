@@ -4,8 +4,8 @@
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;fullstack+developer">
 </p>
-
-<img src="https://blog.postman.com/wp-content/uploads/2019/01/platform.png">
+<a href="#">
+<img src="https://blog.postman.com/wp-content/uploads/2019/01/platform.png"></a>
 
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
@@ -42,13 +42,13 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://www.linkedin.com/in/Sagar1079/" target="blank"><img align="center"
+   <a href="https://www.linkedin.com/in/Sagar1079/" target="_blank"><img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="https://www.linkedin.com/in/Sagar1079/" height="30" width="40" /></a>
-   <a href="https://instagram.com/sagar_dev555" target="blank"><img align="center"
+   <a href="https://instagram.com/sagar_dev555" target="_blank"><img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
          alt="https://www.instagram.com" height="30" width="40" /></a>
-   <a href="https://www.leetcode.com/Sagar1079" target="blank"><img align="center"
+   <a href="https://www.leetcode.com/Sagar1079" target="_blank"><img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
          alt="007" height="30" width="40" /></a>
 </p>
@@ -93,7 +93,7 @@ my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/vi
    <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagar1079&theme=solarized_dark">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sagar1079&theme=solarized_dark">
-
+ 
 </p>
 <br />
 <p align="center">
