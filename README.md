@@ -111,6 +111,6 @@ src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 <br />
 <h2 align="center">📊 LeetCode Stats</h2>
 <p align="center">
-<a href="https://www.leetcode.com/Sagar1079" target="_blank"><img title="Click to view LeetCode Profile"
-      align="center" src="https://leetcard.jacoblin.cool/Sagar1079?theme=nord" /></a>
+<a href="https://www.leetcode.com/GitAddSagar" target="_blank"><img title="Click to view LeetCode Profile"
+      align="center" src="https://leetcard.jacoblin.cool/GitAddSagar?theme=nord" /></a>
 </p>
