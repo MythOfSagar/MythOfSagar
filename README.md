@@ -76,7 +76,6 @@ src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
   alt="chakra" width="40" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40"
   height="40" />
-<img src="https://skillshack.blob.core.windows.net/uploads/express.webp" alt="Express.js" width="40" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40"
   height="40" />
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"
