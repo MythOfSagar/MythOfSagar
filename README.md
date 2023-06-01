@@ -21,11 +21,11 @@ src="https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gi
 src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
-<!-- Resume -->
+<!-- Resume 
 - <img width="20"
 src="https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png"> Checkout
 my [Resume](https://drive.google.com/file/d/1fNp6Hs_BnTyJ8irjtbHlPhkTkV_qJxzC/view?usp=sharing)&nbsp; <img width="15"
-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> -->
 
 
 
