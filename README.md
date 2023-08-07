@@ -110,8 +110,8 @@ src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
   src="https://github-readme-streak-stats.herokuapp.com/?user=MythOfSagar&theme=nord"></a>
 </p>
 <br />
-<h2 align="center">📊 LeetCode Stats</h2>
+<!-- <h2 align="center">📊 LeetCode Stats</h2>
 <p align="center">
-<a href="https://www.leetcode.com/GitAddSagar" target="_blank"><img title="Click to view LeetCode Profile"
-     align="center" src="https://leetcard.jacoblin.cool/GitAddSagar?theme=nord" /></a>
-</p>
+<a href="https://www.leetcode.com/MythOfSagar" target="_blank"><img title="Click to view LeetCode Profile"
+     align="center" src="https://leetcard.jacoblin.cool/MythOfSagar?theme=nord" /></a>
+</p> -->
