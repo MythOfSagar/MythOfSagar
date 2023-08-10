@@ -50,9 +50,9 @@ src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 <a href="https://instagram.com/MythOfSagar" target="_blank"><img align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
      alt="https://www.instagram.com" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/GitAddSagar" target="_blank"><img align="center"
+<!-- <a href="https://www.leetcode.com/MythOfSagar" target="_blank"><img align="center"
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-     alt="007" height="30" width="40" /></a>
+     alt="007" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
