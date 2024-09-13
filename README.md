@@ -17,7 +17,7 @@ src="https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gi
 
 
 <!-- Portfolio -->
-- 👨‍💻 Checkout my [Portfolio](https://MythOfSagar.github.io) &nbsp; <img width="15"
+- 👨‍💻 Checkout my [Portfolio](https://MythOfSagar.com) &nbsp; <img width="15"
 src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
