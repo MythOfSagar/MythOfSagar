@@ -7,7 +7,7 @@
 </a>
 </p>
 <a href="#">
-<img src="https://blog.postman.com/wp-content/uploads/2019/01/platform.png"></a>
+
 
 <h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
 
