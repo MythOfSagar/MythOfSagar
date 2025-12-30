@@ -54,7 +54,7 @@ src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
      alt="007" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#">
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
@@ -85,7 +85,7 @@ src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40" />
 </a>
 </p>
-<br />
+<br /> -->
 
 <h2 align="center"> 📊 GitHub Stats</h2>
 <p align="center">
